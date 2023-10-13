@@ -1,0 +1,27 @@
+nav > a {
+    color: rgb(255, 94, 0);
+    text-size-adjust:inherit;
+    height: 50px;
+    text-align: center;
+
+}
+img{
+    border-radius: 15%;
+    border: 2px cornflowerblue;
+    margin: 10px;
+    display: inline-block;
+    align-items: center;
+}
+ul{
+    font-size: 35px;
+    color: rgb(6, 142, 96);
+    border: 10px;
+    text-align: left;
+}
+ol{
+    color: purple;
+    font-size: 40px;
+    border: 5px;
+    text-align: center;
+    margin: 95px;
+}
