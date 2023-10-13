@@ -3,11 +3,11 @@ nav > a {
     text-size-adjust:inherit;
     height: 50px;
     text-align: center;
-
 }
+
 img{
     border-radius: 15%;
-    border: 2px cornflowerblue;
+    border: 2px rgb(21, 94, 232);
     margin: 10px;
     display: inline-block;
     align-items: center;
@@ -19,7 +19,7 @@ ul{
     text-align: left;
 }
 ol{
-    color: purple;
+    color: rgb(122, 4, 122);
     font-size: 40px;
     border: 5px;
     text-align: center;
